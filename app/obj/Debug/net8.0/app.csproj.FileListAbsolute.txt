@@ -1,0 +1,14 @@
+D:\programing\dotnet\desafioTDD\app\bin\Debug\net8.0\app.exe
+D:\programing\dotnet\desafioTDD\app\bin\Debug\net8.0\app.deps.json
+D:\programing\dotnet\desafioTDD\app\bin\Debug\net8.0\app.runtimeconfig.json
+D:\programing\dotnet\desafioTDD\app\bin\Debug\net8.0\app.dll
+D:\programing\dotnet\desafioTDD\app\bin\Debug\net8.0\app.pdb
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.dll
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\refint\app.dll
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.pdb
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+D:\programing\dotnet\desafioTDD\app\obj\Debug\net8.0\ref\app.dll
